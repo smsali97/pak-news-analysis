@@ -143,7 +143,7 @@ def month_chunks(start, end):
         cur = first_of_next
 
 
-def build_params(q, section, from_date, to_date, page, page_size):
+def build_params(q, section, tag, from_date, to_date, page, page_size):
     p = {
         "from-date": from_date.isoformat(),
         "to-date": to_date.isoformat(),
@@ -157,6 +157,8 @@ def build_params(q, section, from_date, to_date, page, page_size):
         p["q"] = q
     if section:
         p["section"] = section
+    if tag:
+        p["tag"] = tag
     return p
 
 
@@ -215,7 +217,7 @@ def row_from_result(res):
     }
 
 
-def collect_window(q, section, c_start, c_end, ck, ckpath, out, page_size, type_filter):
+def collect_window(q, section, tag, pillar, c_start, c_end, ck, ckpath, out, page_size, type_filter):
     global _KEY_IDX
     key = c_start.strftime("%Y-%m")
     if key in ck["done_windows"]:
@@ -223,7 +225,7 @@ def collect_window(q, section, c_start, c_end, ck, ckpath, out, page_size, type_
     page = ck["window_progress"].get(key, {}).get("next_page", 1)
     kept = 0
     while True:
-        params = build_params(q, section, c_start, c_end, page, page_size)
+        params = build_params(q, section, tag, c_start, c_end, page, page_size)
         resp, remaining = fetch_page(params)
         if resp is None:
             print(f"  {key}: page {page} failed on all keys; progress saved, rerun to resume",
@@ -234,6 +236,8 @@ def collect_window(q, section, c_start, c_end, ck, ckpath, out, page_size, type_
         pages = resp.get("pages", 0)
         for res in resp.get("results", []):
             if type_filter == "article" and res.get("type") != "article":
+                continue
+            if pillar != "all" and res.get("pillarId") != pillar:
                 continue
             row = row_from_result(res)
             if len(row["body"]) < 1:
@@ -285,8 +289,11 @@ def main():
     p = argparse.ArgumentParser()
     p.add_argument("--api-key", help="one key, or comma-separated keys (also reads GUARDIAN_API_KEY[S])")
     p.add_argument("--keys-file", help="file of API keys, one per line (fallbacks)")
-    p.add_argument("--q", default=DEFAULT_Q, help='free-text query; pass --q "" for all of the section')
-    p.add_argument("--section", default="world")
+    p.add_argument("--q", default=DEFAULT_Q, help='free-text query; pass --q "" for none')
+    p.add_argument("--section", default="world", help='section id; pass --section "" for none')
+    p.add_argument("--tag", default=None, help="Guardian tag filter, e.g. world/iran (one run = one tag)")
+    p.add_argument("--pillar", default="news",
+                   help="keep only this pillar (news/opinion/sport/...); 'all' to disable")
     p.add_argument("--start", default=DEFAULT_START, help="YYYY-MM-DD (default 2025-10-06)")
     p.add_argument("--end", default=date.today().isoformat(), help="YYYY-MM-DD (default today)")
     p.add_argument("--page-size", type=int, default=MAX_PAGE_SIZE)
@@ -299,17 +306,19 @@ def main():
     if not _KEYS:
         sys.exit("No API key. Pass --api-key, set GUARDIAN_API_KEY[S], or add a guardian_keys.txt.")
     page_size = max(1, min(args.page_size, MAX_PAGE_SIZE))
+    pillar = "all" if args.pillar == "all" else f"pillar/{args.pillar}"
     start = date.fromisoformat(args.start)
     end = date.fromisoformat(args.end)
     jsonl_path = args.out + ".jsonl"
     ck = load_ckpt(args.checkpoint)
 
     print(f"Guardian harvest {start} -> {end} | section={args.section or 'ALL'} "
-          f"| q={args.q or 'NONE'} | type={args.type} | {len(_KEYS)} key(s)")
+          f"| tag={args.tag or 'NONE'} | q={args.q or 'NONE'} | pillar={args.pillar} "
+          f"| type={args.type} | {len(_KEYS)} key(s)")
     out = open(jsonl_path, "a", encoding="utf-8")
     total_kept = 0
     for c_start, c_end in month_chunks(start, end):
-        total_kept += collect_window(args.q, args.section, c_start, c_end,
+        total_kept += collect_window(args.q, args.section, args.tag, pillar, c_start, c_end,
                                      ck, args.checkpoint, out, page_size, args.type)
     out.close()
 

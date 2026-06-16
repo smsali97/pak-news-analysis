@@ -28,6 +28,11 @@ command, and it continues. Output is de-duplicated and timestamp-sorted.
 
 - `dawn_intl.csv` — Dawn world news, 2025-10-06 → 2026-06-15 (~3.6k articles).
 - `data/intl_YYYY_MM.csv` — per-month chunks that merge into `dawn_intl.csv`.
+- `guardian_news.csv` — Guardian US/Iran/Pakistan coverage, 2025-10 → 2026-06
+  (~1.6k articles). Built by unioning topic tags (`world/iran`,
+  `world/us-israel-war-on-iran`, `world/pakistan`) filtered to `pillar/news`,
+  deduped by Guardian `article_id`. Tags (not section) keep misses low: it
+  catches on-topic news wherever it is filed (e.g. `us-news`, `politics`).
 - `articles.csv` — earlier ad-hoc scrape.
 
 ## Usage
