@@ -1,0 +1,201 @@
+id,outlet,phase,source,target,llm_polarity,llm_verb,doc_id
+E001,dawn,pre,Iran,Israel,negative,threats,742_0
+E002,dawn,pre,Pakistan,Iran,positive,call on,1470_0
+E003,dawn,pre,US,Pakistan,negative,no more trade,319_0
+E004,guardian,pre,US,Iran,negative,called for an end to khamenei’s nearly 40-year reign,2287_0
+E005,guardian,pre,Iran,US,negative,retaliation,2706_0
+E006,dawn,post,Iran,US,negative,consequences,2135_0
+E007,guardian,post,Pakistan,US,positive,shared,3575_0
+E008,dawn,pre,UN,Israel,neutral,called on both sides to stop fighting,1413_0
+E009,dawn,post,China,UAE,positive,told,1640_0
+E010,guardian,post,Iran,Pakistan,positive,confident,3269_0
+E011,guardian,pre,Pakistan,Iran,positive,stands ready and honoured to be the host,2976_0
+E012,guardian,post,Israel,UAE,positive,met,3553_0
+E013,dawn,post,Israel,UAE,positive,met with,1921_0
+E014,guardian,pre,Pakistan,US,positive,host talks,3049_0
+E015,guardian,pre,Israel,Lebanon,negative,strikes hit,2958_0
+E016,dawn,post,Israel,Hezbollah,negative,clashes,1832_0
+E017,guardian,pre,Pakistan,US,neutral,messages have been received,3118_0
+E018,guardian,pre,US,UK,negative,claimed,3012_0
+E019,guardian,pre,Pakistan,US,positive,passed proposals,3036_0
+E020,guardian,pre,Pakistan,Iran,positive,told,2976_0
+E021,dawn,pre,US,Iran,negative,warned,1497_0
+E022,dawn,pre,Pakistan,Iran,positive,reaffirmed,1473_0
+E023,guardian,pre,Israel,Iran,negative,killed,2652_0
+E024,dawn,post,China,US,positive,said,1927_0
+E025,guardian,pre,Pakistan,Iran,positive,spoke with,3049_0
+E026,guardian,post,Pakistan,US,positive,claimed,3516_0
+E027,guardian,post,Pakistan,Iran,positive,spoken,3372_0
+E028,guardian,post,Pakistan,Iran,positive,hailed,3210_0
+E029,guardian,pre,UK,US,neutral,warned,2231_0
+E030,guardian,post,US,Iran,positive,agreed,3339_0
+E031,dawn,post,Pakistan,US,positive,tried to help us and the iranians bridge the gap,1603_0
+E032,dawn,pre,Pakistan,Israel,positive,said,1044_0
+E033,guardian,post,Pakistan,Iran,positive,pledged,3210_0
+E034,guardian,pre,Pakistan,US,positive,attempts to broker,2982_0
+E035,guardian,pre,Israel,Iran,negative,attack,2429_0
+E036,dawn,pre,Iran,IAEA,negative,accusing,1034_0
+E037,guardian,post,Iran,Saudi_Arabia,negative,say goodbye to oil production,3397_0
+E038,guardian,pre,Israel,Iran,negative,attack,2401_0
+E039,dawn,post,Israel,Hezbollah,negative,vowed to crush,2028_0
+E040,guardian,post,Pakistan,Lebanon,positive,declared,3697_0
+E041,guardian,post,Pakistan,China,positive,call on,3380_0
+E042,guardian,post,Israel,Lebanon,negative,attack,3254_0
+E043,dawn,pre,Pakistan,Iran,positive,delivering us messages,1384_0
+E044,dawn,pre,Pakistan,Israel,negative,condemned,475_0
+E045,dawn,post,US,Iran,neutral,watching,1846_0
+E046,guardian,pre,Israel,Hezbollah,negative,degraded,2495_0
+E047,dawn,pre,Pakistan,UAE,positive,thanked,45_0
+E048,dawn,post,Pakistan,US,positive,thanked,2182_0
+E049,guardian,post,Saudi_Arabia,US,positive,requested a pause,3579_0
+E050,guardian,post,Pakistan,US,positive,intervention,3205_0
+E051,dawn,pre,Iran,US,positive,called,1101_0
+E052,dawn,pre,Turkey,UN,positive,lauded,627_0
+E053,dawn,post,China,Pakistan,positive,praising,2183_0
+E054,guardian,pre,US,Iran,negative,destroyed,2417_0
+E055,dawn,post,US,Iran,negative,targeted,2152_0
+E056,guardian,post,US,Pakistan,positive,said,3470_0
+E057,guardian,pre,US,Iran,negative,never have nuclear weapons,2615_0
+E058,dawn,pre,Iran,EU,negative,accusing,870_0
+E059,dawn,pre,Lebanon,France,negative,rejected,466_0
+E060,dawn,pre,US,Israel,positive,began attacks,1189_0
+E061,dawn,pre,Egypt,Israel,negative,reiterate our rejection,1092_0
+E062,dawn,pre,US,Iran,neutral,rescued,1538_0
+E063,dawn,pre,Russia,Pakistan,positive,thanked,484_0
+E064,dawn,pre,Pakistan,Iran,positive,called for,1470_0
+E065,dawn,pre,Pakistan,Iran,positive,expressed,1327_0
+E066,dawn,post,Israel,Iran,positive,said it supported,1552_0
+E067,dawn,pre,Iran,Pakistan,positive,encouraging,981_0
+E068,guardian,pre,Turkey,Israel,negative,deplored,2491_0
+E069,dawn,pre,Russia,US,neutral,seeking to “clarify all the nuances”,783_0
+E070,guardian,pre,Iran,US,negative,complain,2373_0
+E071,guardian,post,Pakistan,Lebanon,positive,mediation,3240_0
+E072,guardian,pre,US,Iran,negative,hit,2795_0
+E073,dawn,post,EU,Russia,negative,lashed out,2041_0
+E074,dawn,pre,UN,Pakistan,neutral,stressing the need,935_0
+E075,dawn,pre,Iran,US,negative,warned,895_0
+E076,dawn,pre,Iran,US,negative,launched,1287_0
+E077,dawn,post,Iran,Pakistan,positive,thanked,2056_0
+E078,guardian,pre,Iran,US,positive,willing to restart nuclear talks,2203_0
+E079,dawn,pre,US,Iran,negative,blamed,1540_0
+E080,dawn,post,Iran,Qatar,neutral,had a phone call,1756_0
+E081,dawn,post,Pakistan,China,positive,supportive,1652_0
+E082,guardian,post,Pakistan,US,positive,mediating,3380_0
+E083,guardian,post,Pakistan,China,positive,set up secret talks,3380_0
+E084,guardian,pre,EU,Lebanon,positive,expressed openness,2659_0
+E085,guardian,pre,Israel,Hezbollah,negative,raided,2946_0
+E086,guardian,pre,Pakistan,Turkey,positive,hosted,3049_0
+E087,dawn,pre,Israel,Lebanon,negative,carried out,1399_0
+E088,dawn,post,Pakistan,Iran,positive,continue its earnest efforts,1710_0
+E089,guardian,pre,Qatar,EU,neutral,declared force majeure,2557_0
+E090,guardian,post,Pakistan,US,positive,announced,3191_0
+E091,dawn,pre,Pakistan,Turkey,positive,quadrilateral meeting,1478_0
+E092,guardian,post,Israel,Iran,negative,enter iran to secure,3535_0
+E093,dawn,post,US,Germany,negative,withdraw,1810_0
+E094,dawn,pre,UAE,Pakistan,positive,expressing its full solidarity,1192_0
+E095,dawn,pre,US,Pakistan,positive,emphasises pakistan’s readiness,469_0
+E096,guardian,post,Israel,Lebanon,negative,clashed,3623_0
+E097,guardian,pre,Qatar,US,positive,worked hard to find diplomatic solutions,2904_0
+E098,dawn,pre,Egypt,Pakistan,positive,noted,388_0
+E099,dawn,post,Iran,Pakistan,neutral,sat down with,1756_0
+E100,dawn,pre,France,Iran,neutral,said,1113_0
+E101,dawn,pre,Pakistan,Iran,positive,signalled,1459_0
+E102,dawn,pre,Pakistan,Turkey,positive,call for restraint,1156_0
+E103,guardian,post,Iran,US,negative,funds released,3578_0
+E104,guardian,pre,Iran,Kuwait,negative,attacked,3156_0
+E105,dawn,pre,UN,Iran,negative,warned,782_0
+E106,guardian,pre,Iran,US,negative,insisting,2706_0
+E107,dawn,pre,Pakistan,Saudi_Arabia,positive,agreed,1401_0
+E108,guardian,post,Pakistan,US,positive,represented iranian interests,3380_0
+E109,dawn,pre,US,Iran,negative,threatened,895_0
+E110,guardian,post,Iran,US,neutral,said,3503_0
+E111,dawn,post,Hezbollah,Israel,negative,launched rockets at,2157_0
+E112,dawn,pre,Pakistan,Israel,negative,condemned,1339_0
+E113,guardian,post,Israel,Lebanon,negative,shelling,3706_0
+E114,guardian,pre,US,Iran,positive,call for a ceasefire,2203_0
+E115,guardian,post,Pakistan,Iran,positive,arranging,3305_0
+E116,dawn,pre,China,Iran,positive,supports,1090_0
+E117,guardian,post,Pakistan,Iran,positive,hosted,3264_0
+E118,dawn,pre,Pakistan,Iran,positive,calls on,1117_0
+E119,dawn,pre,France,Lebanon,positive,offered,1286_0
+E120,dawn,pre,Pakistan,Saudi_Arabia,positive,agreed to work together,1252_0
+E121,dawn,pre,Pakistan,Iran,positive,urged,1339_0
+E122,dawn,pre,US,Iran,negative,slammed,1369_0
+E123,guardian,pre,US,Iran,negative,hitting,2508_0
+E124,guardian,pre,Iran,US,negative,insisted,2344_0
+E125,dawn,pre,Pakistan,US,positive,building support,1509_0
+E126,dawn,pre,Pakistan,Israel,negative,warned,509_0
+E127,guardian,pre,Qatar,Israel,negative,described the israeli attack on south pars as “dangerous” and “irresponsible”,2896_0
+E128,guardian,pre,Iran,US,negative,claimed,2964_0
+E129,guardian,post,Pakistan,Iran,positive,intervened,3242_0
+E130,dawn,post,Pakistan,US,positive,expressing hope,1552_0
+E131,dawn,post,Russia,China,positive,ready to continue reliably supplying,1978_0
+E132,guardian,pre,Pakistan,US,positive,hosted,3049_0
+E133,dawn,post,France,Iran,positive,focused on efforts to reopen,1746_0
+E134,guardian,pre,US,Iran,negative,"replied that if iran did not surrender, “it will be hit very hard!”",2626_0
+E135,dawn,post,Pakistan,Iran,positive,promoting de-escalation and constructive engagement,2021_0
+E136,guardian,pre,Iran,France,neutral,urged,2815_0
+E137,dawn,pre,Pakistan,Israel,negative,demand,199_0
+E138,dawn,post,Hezbollah,Iran,positive,confident,2009_0
+E139,guardian,post,Pakistan,US,positive,arranging,3305_0
+E140,guardian,pre,UK,Iran,negative,condemned,2957_0
+E141,guardian,post,Israel,Lebanon,negative,evacuate and strike,3638_0
+E142,dawn,pre,Israel,Lebanon,negative,staged,1188_0
+E143,guardian,pre,Israel,Lebanon,negative,invasion,3018_0
+E144,guardian,post,Pakistan,US,positive,expect concessions,3380_0
+E145,guardian,post,Pakistan,US,positive,congratulated,3599_0
+E146,dawn,post,UK,Pakistan,positive,thanked,2183_0
+E147,dawn,pre,Pakistan,UN,positive,lauded,627_0
+E148,dawn,pre,Iran,Israel,negative,said,1158_0
+E149,dawn,pre,Iran,US,negative,targeted,1520_0
+E150,guardian,post,Pakistan,Israel,positive,diplomatic support,3380_0
+E151,dawn,pre,Qatar,Israel,positive,helped broker,26_0
+E152,guardian,pre,France,Qatar,negative,suspending,2502_0
+E153,guardian,pre,Pakistan,Iran,positive,requested,3182_0
+E154,dawn,pre,Pakistan,Iran,negative,condemned,1241_0
+E155,dawn,pre,Egypt,Pakistan,positive,called for,388_0
+E156,guardian,post,Pakistan,Iran,positive,persuaded,3470_0
+E157,dawn,pre,Saudi_Arabia,China,neutral,limit,249_0
+E158,guardian,pre,Iran,Hezbollah,positive,praised,2756_0
+E159,dawn,pre,Pakistan,US,positive,reaffirmed,1473_0
+E160,guardian,post,Iran,Pakistan,positive,said,3470_0
+E161,dawn,pre,Israel,Lebanon,negative,strike,573_0
+E162,guardian,pre,Iran,UN,positive,told,2356_0
+E163,dawn,pre,Israel,Lebanon,negative,strike,573_0
+E164,guardian,pre,UK,Bahrain,positive,met,3071_0
+E165,guardian,post,Pakistan,Iran,negative,accusing,3210_0
+E166,guardian,pre,China,Pakistan,positive,strengthen,3068_0
+E167,dawn,pre,Iran,US,negative,insisted,1106_0
+E168,guardian,post,Pakistan,Saudi_Arabia,positive,"described the us president’s call with the leaders of saudi arabia, qatar, turkey, egypt, the uae, jordan and pakistan as “very useful and productive”",3599_0
+E169,guardian,post,Israel,Hezbollah,negative,conquer,3324_0
+E170,guardian,pre,Pakistan,Iran,positive,facilitate,2976_0
+E171,guardian,pre,Pakistan,Iran,positive,requested,3182_0
+E172,guardian,post,Pakistan,China,neutral,met,3390_0
+E173,dawn,pre,US,Pakistan,positive,said,241_0
+E174,guardian,post,Iran,Pakistan,positive,send a delegation,3205_0
+E175,dawn,post,Israel,Hezbollah,negative,intercepted a hostile aircraft,1850_0
+E176,guardian,pre,UK,France,neutral,in talks,2862_0
+E177,guardian,pre,US,Iran,negative,said,2265_0
+E178,dawn,pre,US,Pakistan,positive,praised,1044_0
+E179,guardian,pre,UK,Iran,negative,announced,2260_0
+E180,guardian,post,Israel,Lebanon,negative,told,3621_0
+E181,dawn,post,Pakistan,US,positive,called on,1614_0
+E182,guardian,post,Pakistan,US,positive,said,3700_0
+E183,guardian,pre,US,Iran,negative,hit and obliterate,2934_0
+E184,guardian,post,Iran,Israel,negative,provoke,3631_0
+E185,guardian,post,Saudi_Arabia,US,positive,approached,3575_0
+E186,dawn,pre,Iran,US,negative,suspended,735_0
+E187,dawn,post,US,Iran,negative,alleging,1605_0
+E188,dawn,post,US,Iran,negative,hardened his rhetoric,1962_0
+E189,guardian,post,Pakistan,Iran,positive,carry forward negotiations,3355_0
+E190,guardian,pre,Pakistan,US,negative,negotiating,2491_0
+E191,dawn,pre,US,Iran,negative,decimated,1544_0
+E192,guardian,pre,France,UAE,positive,support,2584_0
+E193,dawn,pre,Pakistan,Russia,negative,condemned,602_0
+E194,guardian,post,Israel,Lebanon,negative,strike,3651_0
+E195,guardian,post,Pakistan,US,positive,backed up,3700_0
+E196,dawn,post,US,Iran,negative,threatens to shoot,1623_0
+E197,dawn,post,US,Pakistan,positive,expressed the desire to enhance,1829_0
+E198,dawn,pre,US,Iran,negative,threatened to obliterate,1365_0
+E199,dawn,post,UK,Russia,negative,sanctioned,2175_0
+E200,dawn,post,US,Iran,negative,destroying,2096_0
