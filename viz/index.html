@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pakistan in the middle — a brokerage story (US–Iran, 2025–26)</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="stage">
+  <svg id="graph"></svg>
+
+  <div class="legend" id="legend"></div>
+
+  <!-- chapter narration -->
+  <div id="chapter">
+    <div class="kicker" id="ch-kicker">Chapter 1 of 5</div>
+    <h1 id="ch-title">—</h1>
+    <div class="lead" id="ch-lead"></div>
+    <div class="broker" id="ch-broker"></div>
+    <div class="stat" id="ch-stat"></div>
+  </div>
+
+  <!-- big date + phase -->
+  <div id="datebox">
+    <div class="d" id="curdate">—</div>
+    <span id="phasebadge"></span>
+  </div>
+
+  <!-- brokerage power -->
+  <div id="board">
+    <h2>Brokerage power</h2>
+    <div class="cap">substance-weighted — hosting &amp; mediating outweigh mere urging</div>
+    <div id="leaderboard"></div>
+    <div id="sparkwrap"><svg id="spark"></svg><div class="sparklabel">Pakistan over time</div></div>
+  </div>
+
+  <!-- other mentions (hidden away on the side) -->
+  <div id="mentions">
+    <h2>Other mentions <span class="x" id="ment-clear"></span></h2>
+    <div id="mentlist"></div>
+  </div>
+
+  <!-- dominant citation spotlight -->
+  <div id="spotlight"></div>
+
+  <!-- dock: timeline + controls -->
+  <div id="dock">
+    <div id="timeline">
+      <div id="track"></div>
+      <div id="progress"></div>
+      <div id="chapseg"></div>
+      <div id="playhead"></div>
+      <input type="range" id="scrubber" min="0" value="0" step="1">
+    </div>
+    <div id="controls">
+      <button id="theme" class="icon-btn" title="Toggle light / dark">&#9728;</button>
+      <button id="play" class="play">&#9654;&nbsp; Play</button>
+      <div class="seg small" id="run-toggle" data-group="run">
+        <button data-val="story" class="active">Story</button>
+        <button data-val="fast">Fast</button>
+      </div>
+      <div class="seg" id="outlet-toggle" data-group="outlet">
+        <button data-val="dawn" class="active">Dawn</button>
+        <button data-val="guardian">Guardian</button>
+      </div>
+      <span class="ctl-label">Speed</span>
+      <div class="seg small" id="speed-toggle" data-group="speed">
+        <button data-val="1">1&times;</button>
+        <button data-val="2" class="active">2&times;</button>
+        <button data-val="4">4&times;</button>
+      </div>
+      <div class="seg small" id="pol-toggle" data-group="pol">
+        <button data-val="all" class="active">All ties</button>
+        <button data-val="coop">Cooperation</button>
+        <button data-val="conflict">Conflict</button>
+      </div>
+      <div class="spacer"></div>
+      <span class="hint" id="pinhint"></span>
+      <div class="seg small" id="mode-toggle" data-group="mode">
+        <button data-val="window" class="active">Live window</button>
+        <button data-val="cumulative">Cumulative</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="d3.v7.min.js"></script>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

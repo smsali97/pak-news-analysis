@@ -1,0 +1,17 @@
+{
+  "_edit_me": "assign each canonical actor to a bloc; this is your call",
+  "bloc": {
+    "US": "US_bloc",
+    "Israel": "US_bloc",
+    "Iran": "Iran_bloc",
+    "Pakistan": "Broker",
+    "Oman": "Mediators",
+    "Qatar": "Mediators",
+    "Egypt": "Mediators",
+    "Saudi_Arabia": "Gulf",
+    "UAE": "Gulf",
+    "Turkey": "OtherPowers",
+    "China": "OtherPowers",
+    "Russia": "OtherPowers"
+  }
+}

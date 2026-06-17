@@ -1,0 +1,883 @@
+relation_bucket,verb_phrase,count
+UNMAPPED,say,3475
+UNMAPPED,include,715
+UNMAPPED,have,671
+UNMAPPED,make,447
+UNMAPPED,say on,442
+UNMAPPED,accord to,442
+UNMAPPED,continue,415
+UNMAPPED,tell,389
+UNMAPPED,report,336
+UNMAPPED,claim,332
+UNMAPPED,say in,328
+UNMAPPED,add,327
+UNMAPPED,seek,284
+UNMAPPED,want,282
+UNMAPPED,follow,252
+UNMAPPED,allow,242
+UNMAPPED,take,239
+UNMAPPED,remain,232
+UNMAPPED,begin,228
+UNMAPPED,lead,211
+UNMAPPED,suggest,195
+UNMAPPED,appear,193
+UNMAPPED,stop,189
+UNMAPPED,give,187
+UNMAPPED,see,183
+UNMAPPED,believe,178
+UNMAPPED,help,174
+UNMAPPED,try,171
+UNMAPPED,destroy,169
+UNMAPPED,announce,162
+UNMAPPED,expect,154
+UNMAPPED,leave,151
+UNMAPPED,reopen,141
+UNMAPPED,show,140
+UNMAPPED,aim at,135
+UNMAPPED,ask,127
+UNMAPPED,describe as,124
+UNMAPPED,fail,122
+UNMAPPED,face,119
+UNMAPPED,force,118
+UNMAPPED,cause,118
+UNMAPPED,’,117
+UNMAPPED,join,116
+UNMAPPED,enrich,114
+UNMAPPED,confirm,113
+UNMAPPED,start,110
+UNMAPPED,base,110
+UNMAPPED,think,109
+UNMAPPED,maintain,108
+UNMAPPED,cite,107
+UNMAPPED,trigger,104
+UNMAPPED,negotiate,103
+UNMAPPED,argue,103
+UNMAPPED,lead to,100
+UNMAPPED,plan,99
+UNMAPPED,grow,99
+UNMAPPED,note,98
+UNMAPPED,become,96
+UNMAPPED,hope,93
+UNMAPPED,need,93
+UNMAPPED,offer,89
+UNMAPPED,mean,89
+UNMAPPED,keep,88
+UNMAPPED,know,87
+UNMAPPED,renew,87
+UNMAPPED,find,86
+UNMAPPED,secure,85
+UNMAPPED,state,85
+UNMAPPED,set,84
+UNMAPPED,enter,84
+UNMAPPED,tell on,82
+UNMAPPED,halt,81
+UNMAPPED,escalate,80
+UNMAPPED,carry out,80
+UNMAPPED,respond to,80
+UNMAPPED,close,80
+UNMAPPED,open,79
+UNMAPPED,ensure,75
+UNMAPPED,declare,74
+UNMAPPED,see as,74
+AGREE,reach,189
+AGREE,agree,149
+AGREE,agree to,93
+AGREE,accept,90
+AGREE,signal,59
+AGREE,sign,58
+AGREE,design,35
+AGREE,ease,35
+AGREE,fire,30
+AGREE,deal with,25
+AGREE,cease,23
+AGREE,sign in,19
+AGREE,agree on,18
+AGREE,agree with,17
+AGREE,agree in,16
+AGREE,breach,15
+AGREE,reach in,13
+AGREE,deal,11
+AGREE,de,11
+AGREE,reach with,10
+AGREE,designate as,9
+AGREE,sign on,9
+AGREE,re,8
+AGREE,reach out to,8
+AGREE,sign with,6
+AGREE,sign up to,6
+AGREE,reach on,5
+AGREE,accept for,5
+AGREE,reach out,5
+AGREE,accept in,5
+AGREE,designate,4
+AGREE,agree at,4
+AGREE,resign from,4
+AGREE,reach before,4
+AGREE,agree between,4
+AGREE,sign during,4
+AGREE,agree to after,4
+AGREE,signal to,4
+AGREE,accept under,3
+AGREE,signal despite,3
+AGREE,agree on to,3
+AGREE,agree in to,3
+AGREE,accept as,3
+AGREE,agree to in,3
+AGREE,deal between,3
+AGREE,agree under,3
+AGREE,accept on,3
+AGREE,disagree on,3
+AGREE,signal on,3
+AGREE,signal in,3
+AGREE,sign up for,3
+AGREE,sign after,2
+AGREE,deal to,2
+AGREE,reach at,2
+AGREE,signal after,2
+AGREE,reach between,2
+AGREE,sign for,2
+AGREE,signal by,2
+AGREE,reach through,2
+AGREE,deal with in,2
+AGREE,sign off on,2
+AGREE,breach on,2
+AGREE,agree during,2
+AGREE,agree with on,2
+AGREE,agree to with,2
+AGREE,sign off,2
+AGREE,assign,2
+AGREE,reach with as,2
+AGREE,sign within,2
+AGREE,sign in during,2
+AGREE,sign with in,2
+AGREE,ceasefire in,1
+AGREE,reach within acco,1
+AGREE,reach despite,1
+AGREE,reach from throug,1
+AGREE,dealmake,1
+AGREE,resign as,1
+AGREE,agree following t,1
+AGREE,sign as with in,1
+AGREE,agree for,1
+ASSAULT,kill,304
+ASSAULT,target,296
+ASSAULT,attack,284
+ASSAULT,launch,257
+ASSAULT,strike,233
+ASSAULT,hit,145
+ASSAULT,bomb,113
+ASSAULT,launch on,110
+ASSAULT,kill in,108
+ASSAULT,target in,54
+ASSAULT,attack in,41
+ASSAULT,launch in,39
+ASSAULT,strike in,37
+ASSAULT,strike on,36
+ASSAULT,hit in,29
+ASSAULT,attack on,28
+ASSAULT,launch at,22
+ASSAULT,launch from,21
+ASSAULT,strike with,19
+ASSAULT,bomb in,18
+ASSAULT,kill in on,18
+ASSAULT,target on,15
+ASSAULT,hit on,15
+ASSAULT,kill on,14
+ASSAULT,kill according,13
+ASSAULT,attack with,12
+ASSAULT,strike at,12
+ASSAULT,hit with,11
+ASSAULT,bomb on,10
+ASSAULT,launch into,9
+ASSAULT,launch on on,9
+ASSAULT,hit at,8
+ASSAULT,kill in since,7
+ASSAULT,strike over,7
+ASSAULT,hit during,7
+ASSAULT,kill during,7
+ASSAULT,strike against,7
+ASSAULT,kill with,7
+ASSAULT,kill in accordin,6
+ASSAULT,kill at,6
+ASSAULT,bomb during,6
+ASSAULT,launch on in,6
+ASSAULT,strike during,6
+ASSAULT,launch after,6
+ASSAULT,launch with,6
+ASSAULT,hit for,5
+ASSAULT,launch towards,5
+ASSAULT,target with,5
+ASSAULT,kill since,5
+ASSAULT,launch at in,5
+ASSAULT,attack over,5
+ASSAULT,kill in as,4
+ASSAULT,target at,4
+ASSAULT,launch against,4
+ASSAULT,launch over,4
+ASSAULT,kill in in,4
+ASSAULT,launch for,4
+ASSAULT,launch across,4
+ASSAULT,launch on alongsid,4
+ASSAULT,airstrike,4
+ASSAULT,attack at,4
+ASSAULT,strike after,4
+ASSAULT,target as,4
+ASSAULT,strike to,4
+ASSAULT,bomb at,4
+ASSAULT,attack during,4
+ASSAULT,strike from,4
+ASSAULT,strike for,3
+ASSAULT,launch without,3
+ASSAULT,hit after,3
+ASSAULT,hit from,3
+ASSAULT,launch at on,3
+ASSAULT,kill along,3
+ASSAULT,kill in includin,3
+ASSAULT,launch in at,3
+ASSAULT,launch against in,3
+ASSAULT,launch on against,3
+ASSAULT,target according,3
+ASSAULT,launch toward,3
+ASSAULT,attack in accordin,2
+REJECT,use,257
+REJECT,deny,109
+REJECT,refuse,88
+REJECT,reject,88
+REJECT,rule out,32
+REJECT,dismiss,20
+REJECT,rule,13
+REJECT,reject as,10
+REJECT,deny on,8
+REJECT,dismiss as,7
+REJECT,reject on,5
+REJECT,miss,4
+REJECT,dismiss on,3
+REJECT,reject in,3
+REJECT,deny in,2
+REJECT,reject out,2
+REJECT,refuse in,2
+REJECT,reject by,1
+REJECT,reject amid,1
+REJECT,dismiss out,1
+REJECT,deny to during,1
+REJECT,dismiss amid,1
+REJECT,reject according,1
+REJECT,reject after,1
+REJECT,dismiss at,1
+REJECT,reject through,1
+REJECT,reject despite,1
+REJECT,deny after,1
+REJECT,rule out accordi,1
+REJECT,reject as with,1
+REJECT,dismiss as accordin,1
+REJECT,dismiss during,1
+REJECT,deny for,1
+REJECT,reject amid on,1
+REJECT,rule out for,1
+REJECT,reject with,1
+REJECT,dismiss from in fol,1
+REJECT,reject on by,1
+REJECT,rule out in,1
+REJECT,deny to,1
+REJECT,reject for,1
+REJECT,deny over,1
+REJECT,eject,1
+REJECT,dismiss on as,1
+REJECT,reject due,1
+CONSULT,call,249
+CONSULT,discuss,139
+CONSULT,hold,119
+CONSULT,meet,104
+CONSULT,call for,84
+CONSULT,call on,56
+CONSULT,meet in,32
+CONSULT,meet with,29
+CONSULT,talk,26
+CONSULT,talk about,21
+CONSULT,talk to,17
+CONSULT,meet on,16
+CONSULT,discuss with,15
+CONSULT,meet for,14
+CONSULT,recall,14
+CONSULT,call in,11
+CONSULT,meet in on,10
+CONSULT,talk with,9
+CONSULT,call off,8
+CONSULT,discuss in,7
+CONSULT,meet at,6
+CONSULT,discuss on,6
+CONSULT,talk up,5
+CONSULT,call on on,5
+CONSULT,call on for,5
+CONSULT,call in for,5
+CONSULT,meet with on,5
+CONSULT,meet in in,5
+CONSULT,call in on,5
+CONSULT,discuss during,4
+CONSULT,meet with in,4
+CONSULT,discuss at,4
+CONSULT,call for in,4
+CONSULT,call into,3
+CONSULT,call with,3
+CONSULT,meet with at,3
+CONSULT,meet in after,3
+CONSULT,call upon,3
+CONSULT,talk of,3
+CONSULT,meet in for,3
+CONSULT,talk between,2
+CONSULT,meet with with,2
+CONSULT,meet after,2
+CONSULT,consult about,2
+CONSULT,call at for,2
+CONSULT,call on upon,2
+CONSULT,consult,2
+CONSULT,meet on before,2
+CONSULT,call following,2
+CONSULT,discuss in accordin,2
+CONSULT,call for on,2
+CONSULT,call for for,2
+CONSULT,call out as,2
+CONSULT,talk in,2
+CONSULT,call for across,1
+CONSULT,discuss among,1
+CONSULT,talk about in wi,1
+CONSULT,call according f,1
+CONSULT,consult before,1
+CONSULT,talk outside,1
+CONSULT,meet in in given,1
+CONSULT,discuss with during,1
+CONSULT,meet as,1
+CONSULT,talk about in,1
+CONSULT,meet inside,1
+CONSULT,meet including,1
+CONSULT,meet at with,1
+CONSULT,meet on for,1
+CONSULT,call off accordi,1
+CONSULT,talk over,1
+CONSULT,talk to because,1
+CONSULT,meet after on,1
+CONSULT,meet to in,1
+CONSULT,call after,1
+CONSULT,call off after,1
+CONSULT,meet in during,1
+CONSULT,call into after,1
+CONSULT,call off to,1
+CONSULT,meet with for,1
+CONSULT,call below,1
+SUPPORT,end,409
+SUPPORT,back,195
+SUPPORT,do,186
+SUPPORT,consider,136
+SUPPORT,support,123
+SUPPORT,raise,65
+SUPPORT,endorse,23
+SUPPORT,support in,14
+SUPPORT,praise,14
+SUPPORT,scale back,7
+SUPPORT,praise for,7
+SUPPORT,reconsider,5
+SUPPORT,praise in,5
+SUPPORT,backfire,4
+SUPPORT,support with,4
+SUPPORT,support on,4
+SUPPORT,enrich inside,4
+SUPPORT,praise as,3
+SUPPORT,side with,3
+SUPPORT,hold back,3
+SUPPORT,consider in,3
+SUPPORT,support for,3
+SUPPORT,preside over on,3
+SUPPORT,hit back,3
+SUPPORT,back with,3
+SUPPORT,sideline,3
+SUPPORT,up,2
+SUPPORT,consider for,2
+SUPPORT,praise for in,2
+SUPPORT,support during,2
+SUPPORT,avoid alongside,2
+SUPPORT,consider as,2
+SUPPORT,involve alongside,2
+SUPPORT,support against,2
+SUPPORT,back down,2
+SUPPORT,launch alongside,2
+SUPPORT,back to,2
+SUPPORT,side in with,2
+SUPPORT,hold back from,2
+SUPPORT,support to,2
+SUPPORT,sideline in,2
+SUPPORT,include outside,2
+SUPPORT,support through,2
+SUPPORT,subside,2
+SUPPORT,back on,2
+SUPPORT,back up,2
+SUPPORT,include alongside,2
+SUPPORT,blend inside,1
+SUPPORT,work alongside i,1
+SUPPORT,bomb inside,1
+SUPPORT,consider despite,1
+SUPPORT,support with in,1
+SUPPORT,sideline according f,1
+SUPPORT,scale back after,1
+SUPPORT,require alongside,1
+SUPPORT,operate inside,1
+SUPPORT,sideline at,1
+SUPPORT,support as,1
+SUPPORT,smile alongside,1
+SUPPORT,support despite,1
+SUPPORT,displace inside as,1
+SUPPORT,praise during as,1
+SUPPORT,support by,1
+SUPPORT,publish back on,1
+SUPPORT,hide inside,1
+SUPPORT,start alongside i,1
+SUPPORT,see inside,1
+SUPPORT,support at,1
+SUPPORT,counter alongside,1
+SUPPORT,praise in for,1
+SUPPORT,reside in on,1
+SUPPORT,consider alongside,1
+SUPPORT,strike alongside w,1
+SUPPORT,review alongside,1
+SUPPORT,backtrack on,1
+SUPPORT,deplete besides aft,1
+SUPPORT,show alongside,1
+SUPPORT,back by,1
+SUPPORT,hold alongside,1
+SUPPORT,seek besides,1
+AID,send,101
+AID,provide,92
+AID,send to,35
+AID,send into,17
+AID,supply,15
+AID,send in,13
+AID,provide with,12
+AID,assist,12
+AID,aid,10
+AID,send through,8
+AID,supply to,8
+AID,provide to,7
+AID,send on,6
+AID,supply with,5
+AID,send to for,5
+AID,send from to,4
+AID,provide for,4
+AID,assist in,4
+AID,send according,3
+AID,send for,3
+AID,send in into,2
+AID,supply to for,2
+AID,send with,2
+AID,provide on,2
+AID,send by,2
+AID,supply across,2
+AID,provide to as,2
+AID,provide at,2
+AID,send to despite,2
+AID,provide during,2
+AID,send to along,1
+AID,send off,1
+AID,assist in accordin,1
+AID,send toward sinc,1
+AID,send in as,1
+AID,provide in in,1
+AID,supply with with,1
+AID,send to after,1
+AID,send under,1
+AID,send at,1
+AID,provide along throu,1
+AID,provide with after,1
+AID,send to on for,1
+AID,send to under,1
+AID,provide to on,1
+AID,send up,1
+AID,provide in as,1
+AID,send because,1
+AID,provide in about,1
+AID,send from,1
+AID,send since,1
+AID,send after via,1
+AID,send over,1
+AID,provide from,1
+AID,confirm on provided,1
+AID,send to on,1
+AID,provide over,1
+AID,provide into among,1
+AID,send through in,1
+AID,supply for,1
+AID,assist during,1
+AID,provide after,1
+AID,provide by,1
+AID,provide for amid,1
+AID,supply before,1
+AID,provide to in,1
+AID,provide to from,1
+AID,supply through,1
+AID,send to via,1
+AID,send as,1
+AID,send for to,1
+AID,provide in,1
+AID,want provided,1
+AID,send out,1
+AID,send to as,1
+AID,send after,1
+AID,aid including,1
+AID,raid,1
+AID,send during,1
+AID,send into in,1
+MEDIATE,be,258
+MEDIATE,go,170
+MEDIATE,broker,104
+MEDIATE,mediate,61
+MEDIATE,facilitate,48
+MEDIATE,-,41
+MEDIATE,shut,19
+MEDIATE,bet,8
+MEDIATE,broker in,6
+MEDIATE,mediate between,6
+MEDIATE,broker during,4
+MEDIATE,mediate with,3
+MEDIATE,facilitate in,3
+MEDIATE,mediate in,3
+MEDIATE,broker on after,2
+MEDIATE,facilitate through,2
+MEDIATE,broker between,1
+MEDIATE,mediate through,1
+MEDIATE,mediate between on,1
+MEDIATE,mediate after,1
+MEDIATE,facilitate for,1
+MEDIATE,shuttle between in,1
+MEDIATE,broker on,1
+MEDIATE,mediate at,1
+MEDIATE,shuttle,1
+MEDIATE,shuttle between ami,1
+MEDIATE,mediate on,1
+MEDIATE,facilitate in through,1
+MEDIATE,mediate in between,1
+MEDIATE,broker under,1
+MEDIATE,mediate since,1
+MEDIATE,facilitate through ami,1
+MEDIATE,broker over,1
+MEDIATE,mediate following i,1
+DEMAND,urge,142
+DEMAND,insist,134
+DEMAND,express,99
+DEMAND,demand,69
+DEMAND,surge,27
+DEMAND,press,26
+DEMAND,pressure,25
+DEMAND,insist on,23
+DEMAND,urge in,12
+DEMAND,suppress,9
+DEMAND,express in,9
+DEMAND,urge on,9
+DEMAND,press on,7
+DEMAND,pressure into,7
+DEMAND,press for,6
+DEMAND,press with,5
+DEMAND,demand on,5
+DEMAND,demand in,5
+DEMAND,urge according,4
+DEMAND,surge on,4
+DEMAND,press on with,4
+DEMAND,surge in,4
+DEMAND,express with,3
+DEMAND,insist in,3
+DEMAND,express on,3
+DEMAND,urge at,3
+DEMAND,urge for,3
+DEMAND,express for,3
+DEMAND,express at,3
+DEMAND,pressure over,3
+DEMAND,demand for,3
+DEMAND,insist after,2
+DEMAND,express amid,2
+DEMAND,demand as,2
+DEMAND,express on for,2
+DEMAND,pre,2
+DEMAND,urge before,2
+DEMAND,repress,2
+DEMAND,express to,2
+DEMAND,oppress,1
+DEMAND,express following,1
+DEMAND,surge by since,1
+DEMAND,express according,1
+DEMAND,express despite,1
+DEMAND,demand with,1
+DEMAND,urge according i,1
+DEMAND,surge to at,1
+DEMAND,surge to with,1
+DEMAND,express to for,1
+DEMAND,surge in since,1
+DEMAND,demand of,1
+DEMAND,demand from,1
+DEMAND,express under,1
+DEMAND,surge during with,1
+DEMAND,press in,1
+DEMAND,demand after,1
+DEMAND,surge across,1
+DEMAND,demand over,1
+DEMAND,express in under,1
+DEMAND,express at of,1
+DEMAND,pressure against,1
+DEMAND,depress,1
+DEMAND,surge above for,1
+DEMAND,demand of on,1
+DEMAND,express after,1
+DEMAND,insist with,1
+DEMAND,insist despite on,1
+DEMAND,urge on at,1
+DEMAND,insist albeit,1
+DEMAND,surge amid,1
+DEMAND,insist upon,1
+DEMAND,demand into as,1
+DEMAND,press to,1
+DEMAND,pressure in,1
+DEMAND,surge after after,1
+DEMAND,surge to for,1
+DEMAND,urge against,1
+DEMAND,press in with,1
+DEMAND,urge on without,1
+DEMAND,press into,1
+HOST_TALKS,come,270
+HOST_TALKS,get,80
+HOST_TALKS,host,77
+HOST_TALKS,bring,49
+HOST_TALKS,welcome,36
+HOST_TALKS,bring to,24
+HOST_TALKS,co,7
+HOST_TALKS,convene,6
+HOST_TALKS,host in,6
+HOST_TALKS,welcome in,4
+HOST_TALKS,host on,3
+HOST_TALKS,welcome on,3
+HOST_TALKS,host on for,2
+HOST_TALKS,host for,2
+HOST_TALKS,host on in,2
+HOST_TALKS,host to,2
+HOST_TALKS,welcome according,2
+HOST_TALKS,ring,2
+HOST_TALKS,reconvene at in,2
+HOST_TALKS,host at,2
+HOST_TALKS,convene excluding,1
+HOST_TALKS,host throughout,1
+HOST_TALKS,convene over,1
+HOST_TALKS,s,1
+HOST_TALKS,host in for,1
+HOST_TALKS,host in with,1
+HOST_TALKS,bring together fr,1
+HOST_TALKS,host in after,1
+HOST_TALKS,convene in,1
+HOST_TALKS,host with,1
+HOST_TALKS,welcome from aboard,1
+HOST_TALKS,welcome through,1
+HOST_TALKS,convene into,1
+HOST_TALKS,welcome under,1
+HOST_TALKS,welcome without,1
+HOST_TALKS,host on with,1
+HOST_TALKS,welcome with,1
+HOST_TALKS,convene for,1
+HOST_TALKS,et,1
+HOST_TALKS,welcome for,1
+HOST_TALKS,welcome before,1
+HOST_TALKS,welcome within,1
+HOST_TALKS,reconvene,1
+HOST_TALKS,host at in,1
+HOST_TALKS,host over,1
+ACCUSE,accuse of,160
+ACCUSE,condemn,89
+ACCUSE,criticise,48
+ACCUSE,accuse,30
+ACCUSE,blame for,30
+ACCUSE,blame,22
+ACCUSE,condemn as,16
+ACCUSE,slam,14
+ACCUSE,criticise for,13
+ACCUSE,condemn in,11
+ACCUSE,condemn on,10
+ACCUSE,criticise over,7
+ACCUSE,criticize,7
+ACCUSE,criticise as,7
+ACCUSE,accuse in of,6
+ACCUSE,condemn for,6
+ACCUSE,accuse on of,5
+ACCUSE,blame on,5
+ACCUSE,slam for,4
+ACCUSE,accuse on,4
+ACCUSE,criticise in,4
+ACCUSE,criticise on,4
+ACCUSE,accuse of during,4
+ACCUSE,accuse at of,3
+ACCUSE,accuse of in,3
+ACCUSE,criticize as,3
+ACCUSE,blame for by,2
+ACCUSE,accuse of by,2
+ACCUSE,accuse during of,2
+ACCUSE,criticise on in,2
+ACCUSE,criticise on as,2
+ACCUSE,condemn without,1
+ACCUSE,slam as,1
+ACCUSE,accuse after of,1
+ACCUSE,criticise for at,1
+ACCUSE,condemn in by on,1
+ACCUSE,condemn for despite,1
+ACCUSE,accuse despite,1
+ACCUSE,blame in,1
+ACCUSE,slam over on wit,1
+ACCUSE,condemn during as,1
+ACCUSE,condemn after,1
+ACCUSE,blame for in,1
+ACCUSE,condemn against,1
+ACCUSE,criticise during for,1
+ACCUSE,criticise compared,1
+ACCUSE,slam in,1
+ACCUSE,blame on in,1
+ACCUSE,slam over,1
+ACCUSE,condemn on by,1
+ACCUSE,condemn on with,1
+ACCUSE,accuse of since,1
+ACCUSE,condemn on as,1
+ACCUSE,slam on,1
+ACCUSE,accuse following,1
+ACCUSE,accuse at,1
+ACCUSE,criticise on for,1
+ACCUSE,accuse for,1
+ACCUSE,criticize on,1
+ACCUSE,accuse as,1
+ACCUSE,condemn during,1
+ACCUSE,blame without,1
+ACCUSE,condemn with,1
+ACCUSE,condemn as across w,1
+ACCUSE,slam into,1
+ACCUSE,condemn across,1
+ACCUSE,criticise in at,1
+ACCUSE,criticise despite,1
+ACCUSE,accuse of accordin,1
+ACCUSE,criticise in on,1
+ACCUSE,condemn in for,1
+ACCUSE,condemn by,1
+ACCUSE,accuse in,1
+ACCUSE,condemn to,1
+ACCUSE,accuse under of,1
+ACCUSE,accuse of with,1
+ACCUSE,criticise in on for,1
+ACCUSE,blame after,1
+ACCUSE,blame for during,1
+ACCUSE,accuse of after,1
+SANCTION,impose,79
+SANCTION,pose,62
+SANCTION,impose on,27
+SANCTION,lack,15
+SANCTION,sanction,12
+SANCTION,impose in,8
+SANCTION,list,7
+SANCTION,impose over,5
+SANCTION,impose after,5
+SANCTION,reimpose,4
+SANCTION,impose since,3
+SANCTION,impose during,2
+SANCTION,sanction in for,2
+SANCTION,impose on for,2
+SANCTION,impose through,2
+SANCTION,impose across,2
+SANCTION,sanction given,1
+SANCTION,sanction over,1
+SANCTION,sanction on,1
+SANCTION,impose for,1
+SANCTION,reimpose on in,1
+SANCTION,blacklist,1
+SANCTION,impose following,1
+SANCTION,penalise in,1
+SANCTION,impose in over,1
+SANCTION,impose as,1
+SANCTION,impose with,1
+SANCTION,reimpose on,1
+SANCTION,sanction for,1
+SANCTION,impose at as,1
+SANCTION,sanction in,1
+SANCTION,impose under,1
+SANCTION,impose from,1
+SANCTION,sanction as,1
+SANCTION,reimpose by,1
+SANCTION,impose on through,1
+SANCTION,pen,1
+SANCTION,reimpose in,1
+THREATEN,warn,264
+THREATEN,threaten,258
+THREATEN,vow,59
+THREATEN,warn of,46
+THREATEN,warn on,32
+THREATEN,warn against,26
+THREATEN,retaliate against,19
+THREATEN,retaliate with,16
+THREATEN,threaten on,15
+THREATEN,threaten in,15
+THREATEN,retaliate,14
+THREATEN,warn in,13
+THREATEN,war,12
+THREATEN,threaten with,11
+THREATEN,retaliate by,8
+THREATEN,threaten at,4
+THREATEN,warn over,3
+THREATEN,retaliate for,3
+THREATEN,warn according,3
+THREATEN,vow on,3
+THREATEN,warn about,3
+THREATEN,eat,3
+THREATEN,warn within in,2
+THREATEN,threaten after,2
+THREATEN,retaliate across,2
+THREATEN,warn on against,2
+THREATEN,warn in on,2
+THREATEN,warn on of,2
+THREATEN,warn during,2
+THREATEN,vow in,2
+THREATEN,retaliate after,2
+THREATEN,retaliate to by,2
+THREATEN,warn before,2
+THREATEN,warn for,2
+THREATEN,retaliate against by,2
+THREATEN,warn at,2
+THREATEN,threaten following,1
+THREATEN,warn with,1
+THREATEN,threaten through,1
+THREATEN,threaten over,1
+THREATEN,warn after,1
+THREATEN,warn starting,1
+THREATEN,warn of for,1
+THREATEN,retaliate against wit,1
+THREATEN,threaten against,1
+THREATEN,threaten on against,1
+THREATEN,warn because,1
+THREATEN,retaliate despite wit,1
+THREATEN,warn in of,1
+THREATEN,warn during agai,1
+THREATEN,threaten amid,1
+THREATEN,retaliate beyond,1
+THREATEN,warn against ove,1
+THREATEN,unwarne of,1
+THREATEN,retaliate to,1
+THREATEN,vow after accor,1
+THREATEN,threaten with on,1
+THREATEN,warn according o,1
+THREATEN,retaliate to with,1
+THREATEN,warn amid agains,1
+THREATEN,threaten to,1
+THREATEN,retaliate in,1
+THREATEN,threaten after on,1
+THREATEN,retaliate to by in be,1
+THREATEN,warn of after,1
+THREATEN,warn without,1
+THREATEN,vow in over,1
+THREATEN,threaten over in,1
+THREATEN,warn after again,1
+THREATEN,threaten on with,1
+THREATEN,vow before,1
+THREATEN,warn on in,1
+THREATEN,warn of includin,1
+THREATEN,disavow over,1
+THREATEN,threaten on in,1
+THREATEN,threat,1
+THREATEN,warn off,1
+THREATEN,disavow,1
+THREATEN,disavow in,1
+THREATEN,warn off from,1
